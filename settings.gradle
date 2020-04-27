@@ -1,0 +1,3 @@
+rootProject.name = 'retry-with-roots-sample'
+
+include ':compiler-plugin'
